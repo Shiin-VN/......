@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://shiin-vn.github.io/crussh/";
+            window.location = "https://shiin-vn.github.io/Crush-demo/";
           },
         });
       }
